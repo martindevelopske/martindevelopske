@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martindevelopske&label=Profile%20views&color=0e75b6&style=flat" alt="martindevelopske" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martindevelopske" alt="martindevelopske" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martindevelopske" alt="martindevelopske" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/m_devv" target="blank"><img src="https://img.shields.io/twitter/follow/m_devv?logo=twitter&style=for-the-badge" alt="m_devv" /></a> </p>
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martindevelopske&show_icons=true&locale=en&layout=compact" alt="martindevelopske" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martindevelopske&show_icons=true&locale=en" alt="martindevelopske" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martindevelopske&show_icons=true&locale=en" alt="martindevelopske" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martindevelopske&" alt="martindevelopske" /></p>
