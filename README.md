@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/m_devv" target="blank"><img src="https://img.shields.io/twitter/follow/m_devv?logo=twitter&style=for-the-badge" alt="m_devv" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Web3 development and ReactNative.**
+- 🌱 I am a fullstack/ MERN stack developer and also an upcoming blockchain developer.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at [Martindevelopske.netlify.app](Martindevelopske.netlify.app)
+- 👨‍💻 All of my projects are available at [Martindevelopske.com](Martindevelopske.com)
 
 - 💬 Ask me about **Javascript, Reactjs and web development in general.**
 
 - 📫 How to reach me **martindevelopske@gmail.com**
 
-- 📄 Know about my experiences [Martindevelopske.netlify.app](Martindevelopske.netlify.app)
+- 📄 Know about my experiences [Martindevelopske.com](Martindevelopske.com)
 
 - ⚡ Fun fact **I am funny.**
 
