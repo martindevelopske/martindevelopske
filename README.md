@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/m_devv" target="blank"><img src="https://img.shields.io/twitter/follow/m_devv?logo=twitter&style=for-the-badge" alt="m_devv" /></a> </p>
 
-- 🌱 I am a fullstack/ MERN stack developer and also an upcoming blockchain developer.**
+- 🌱 I am a fullstack/ MERN stack developer.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 👨‍💻 All of my projects are available at [Martindevelopske.com](Martindevelopske.com)
 
-- 💬 Ask me about **Javascript, Reactjs and web development in general.**
+- 💬 Ask me about **Javascript, Reactjs, node js, databases and web development in general.**
 
 - 📫 How to reach me **martindevelopske@gmail.com**
 
