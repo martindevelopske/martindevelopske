@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Software Engineer
 -------------------------------------------------
 
-Passionate about Building and Maintaining High-performance web apps
+Passionate about Building and Maintaining High-performance web apps and APIs
 
-* 🌍  I'm based in kenya
-* 🖥️  See my portfolio at [Visit my Website.](http://martindevelopske.com)
+* 🌍  I'm based in Nairobi, kenya
+* 🖥️  See my portfolio at [Visit my Website.](http://martindevelopske.netlify.app)
 * ✉️  You can contact me at [martindevelopske@gmail.com](mailto:martindevelopske@gmail.com)
 * 🧠  I'm learning DevOps
 
