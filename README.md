@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martin Ndung'u
 ======================================================================================================================================
 
-Fullstack Software Engineer
+Software Engineer
 -------------------------------------------------
 
 Passionate about Building and Maintaining High-performance web apps and APIs
@@ -9,7 +9,7 @@ Passionate about Building and Maintaining High-performance web apps and APIs
 * 🌍  I'm based in Nairobi, kenya
 * 🖥️  See my portfolio at [Visit my Website.](http://martindevelopske.netlify.app)
 * ✉️  You can contact me at [martindevelopske@gmail.com](mailto:martindevelopske@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  I'm currently learning AWS
 
 <a href="https://www.github.com/martindevelopske" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/martindevelopske?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/martindevelops" target="_blank" rel="noreferrer"><img
