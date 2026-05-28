@@ -2,7 +2,7 @@
 
 Software Engineer focused on **backend & distributed systems** — designing, building, and maintaining mission-critical services for SaaS platforms.
 
-📍 Nairobi, Kenya · 🌐 [martindevelopske.netlify.app](http://martindevelopske.netlify.app)
+📍 Nairobi, Kenya · 🌐 [martindevelopske.github.io](https://martindevelopske.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Software Engineer focused on **backend & distributed systems** — designing, bu
 
 #### Find me online
 
-[LinkedIn](https://www.linkedin.com/in/martin-ndungu-nganga) · [X / Twitter](https://www.x.com/martindevelops) · [Portfolio](http://martindevelopske.netlify.app) · [Email](mailto:martindevelopske@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/martin-ndungu-nganga) · [X / Twitter](https://www.x.com/martindevelops) · [Portfolio](https://martindevelopske.github.io) · [Email](mailto:martindevelopske@gmail.com)
 
 ---
 
